@@ -1,0 +1,2 @@
+6000 Yi Wang 5147896789 m WangYI@yahoo.com 1990-03-05 2284.7999999999997  Programming 42  FullTimeTeacherHealthInsurance
+5000 Yi Wang 5147896789 m WangYI@yahoo.com 1990-03-05 1915.2  Programming 42  PartTimeTeacher30.0  

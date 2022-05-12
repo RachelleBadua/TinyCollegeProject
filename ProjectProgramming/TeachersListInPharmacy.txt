@@ -1,0 +1,4 @@
+100009 Simon Joll 5145687380 m SimonJoll@outlook.com 1999-02-07 1915.2  Pharmacytechnicien 42 PartTimeTeacher30.0  
+100010 Rose Park 5145682358 f RoseAnne@outlook.com 1998-02-25 1915.2  Pharmacytechnicien 42 PartTimeTeacher30.0  
+100005 Kate Nolasco 5144938506 m KateNolasco@yahoo.ca 2002-05-18 4460.8  Pharmacian 82 FullTimeTeacherInsuranceHealth
+100006 Micah Sophia 5149386045 f MisoLaurente@yahoo.ca 2003-04-06 4460.8  Pharmacian 82 FullTimeTeacherInsuranceHealth
